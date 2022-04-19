@@ -1,0 +1,2 @@
+*{font-family:'serif'}html,body{overflow:hidden;font-size:16px}header{position:relative;background-color:#282f44;text-align:center}header .ico{width:80%;max-width:250px;padding:250px 0}header .marginbottom{position:absolute;width:95%;bottom:0;right:-20px;-webkit-animation:upin 2s both;animation:upin 2s both}@-webkit-keyframes upin{0%{bottom:-100px}100%{bottom:0}}@keyframes upin{0%{bottom:-100px}100%{bottom:0}}header .explore{position:absolute;left:50%;top:50%;-webkit-transform:translate(-50%);transform:translate(-50%)}
+/*# sourceMappingURL=style.css.map */
